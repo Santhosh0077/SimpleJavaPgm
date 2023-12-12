@@ -15,6 +15,6 @@ public class sum{ public static void main(String args[]) {
      		  
      		   int b = reader.nextInt(); 
      		    
-     		    double sum = a+b;
+     		    double sum = (a*a)+(b*b);
      		   
-     		   System.out.println("sum"); } } 
+     		   System.out.println(sum); } } 
